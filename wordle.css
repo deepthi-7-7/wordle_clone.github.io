@@ -22,6 +22,16 @@ hr {
     display: flex;
     flex-wrap: wrap;
 }
+#title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    #title img {
+        height: 60px; /* Adjust the height of the logo */
+    }
 
 .tile {
     border: 2px solid lightgray;
