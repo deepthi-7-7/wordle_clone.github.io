@@ -35,7 +35,7 @@ To run the game locally on your machine, follow these steps:
 
 3. Start playing the game by entering your guesses and following the feedback provided.
 
-4. Or you can directly play this game by clicking on this link (clone-wordle)[]
+4. Or you can directly play this game by clicking on this link [clone-wordle](https://deepthi-7-7.github.io/wordle_clone.github.io/wordle.html)
 
 ## Dependencies
 
