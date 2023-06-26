@@ -45,9 +45,5 @@ This project does not have any external dependencies. It is built using basic HT
 
 This project is inspired by the original game Wordle and is intended for educational purposes only. It was developed as a project work by pradeepthi.
 
-## Contributing
-
-Contributions to the project are welcome. If you have any suggestions, improvements, or bug fixes, please create a pull request or open an issue on the project's repository.
-
 
 Have fun playing the clone Wordle game!
